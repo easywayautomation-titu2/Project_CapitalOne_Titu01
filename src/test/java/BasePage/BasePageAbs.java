@@ -85,6 +85,8 @@ public abstract class BasePageAbs implements BasePage, BasePage2 {
 	
 	
 public void fName() {
+	
+		System.out.println("Check");
 		
 		int j=0;
 		int retry=5;
